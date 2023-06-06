@@ -1,6 +1,6 @@
 [![MasterHead](https://www.mobilelive.ca/wp-content/uploads/2020/11/approaches.jpg)](https://rahmasassi.io)
 <h1 align="center">Hi 👋, I'm Rahma Sassi</h1>
-<h3 align="center">Development and DevOps</h3>
+<h3 align="center">Software and DevOps engineering student</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmasassi&label=Profile%20views&color=0e75b6&style=flat" alt="rahmasassi" /> </p>
