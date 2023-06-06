@@ -3,13 +3,11 @@
 <h3 align="center">Development and DevOps</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmasassi&label=Profile%20views&color=0e75b6&style=flat" alt="rahmasassi" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/rahma-sassi-76635927a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahma sassi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rahma-sassi-76635927a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahma sassi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,4 +18,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahmasassi&show_icons=true&locale=en" alt="rahmasassi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahmasassi&" alt="rahmasassi" /></p>
-
